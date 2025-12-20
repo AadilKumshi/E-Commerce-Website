@@ -1,0 +1,11 @@
+# Python junk
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Docker junk
+postgres_data/
+
+# OS junk
+.DS_Store
