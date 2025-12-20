@@ -14,7 +14,7 @@ Built with **FastAPI**, containerized with **Docker**, and deployed on **Render*
 ##  Live Demo & Documentation
 The API is live! You can interact with all endpoints via the Swagger UI:
 
- **[View Live API Docs (Swagger UI)](https://aadil-ecommerce-api.onrender.com/docs)**
+ **[View Live API Docs (Swagger UI)](https://smart-ecom-api.onrender.com)**
 
 ### Test Credentials
 I have set up a demo admin account so you can test protected endpoints (like creating products or viewing admin stats) without registering.
